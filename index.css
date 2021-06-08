@@ -5,7 +5,7 @@ body{
     margin: 100px 0 0 70px;
     color: rgb(27, 25, 25);
 }
-.items-container{
+#items-container-1, #items-container-2{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
